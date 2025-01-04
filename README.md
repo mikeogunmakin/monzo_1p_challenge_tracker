@@ -1,2 +1,2 @@
 # monzo_1p_challenge_tracker
-This project explores personal savings growth through Python scripting and data visualization using Looker. The goal was to understand the amount that could be saved by a specified date with the announced Monzo automated 1p saving challenge. Dashboard can be found here: https://lookerstudio.google.com/s/tFIOldtaScQ
+Personal project to visualise how much I could save by a given date taking the monzo 1p challenge. Dashboard can be found here: https://lookerstudio.google.com/s/tFIOldtaScQ
